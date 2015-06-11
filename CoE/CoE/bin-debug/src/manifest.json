@@ -1,0 +1,10 @@
+[
+	"base\\Context.ts",
+	"utils\\Utils.ts",
+	"view\\BackGround.ts",
+	"view\\Button.ts",
+	"view\\Logo.ts",
+	"view\\Menu.ts",
+	"MainContext.ts",
+	"Main.ts"
+]

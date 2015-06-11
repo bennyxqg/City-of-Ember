@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\bin\CoE.dll.config
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\bin\CoE.dll
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\bin\CoE.pdb
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\obj\Debug\CoE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\obj\Debug\CoE.dll
+C:\Users\Administrator\Documents\GitHub\City-of-Ember\CoE\CoE\obj\Debug\CoE.pdb
