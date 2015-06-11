@@ -28,7 +28,8 @@
         obj.addChild(this);
     }
 
-    play(time:number) {
-        egret.Tween.get(this).to({ y: 200 }, time);
+    play(time: number) {
+        var tw = egret.Tween.get(this);
+        tw.to({ y: 200 }, time);
     }
 } 
